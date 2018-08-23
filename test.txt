@@ -1,4 +1,0 @@
-this is a test file, created on my local machine and uploaded back to the server
-
-20180823
-Vince
