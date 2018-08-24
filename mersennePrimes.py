@@ -44,6 +44,8 @@ def mersenne_detector():
     
 def main():
 
+    # The mersenne detector uses the yield function which releases control back to the for loop after finding another mersenne prime.
+    
     for prime in mersenne_detector():
         mersenne_prime = (2**prime - 1)
         print("Mersenne prime [prime: %5d]: %30d" % (prime,mersenne_prime))
