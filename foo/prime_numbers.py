@@ -35,9 +35,6 @@ def IsPrime(prime):
                 # if the number is divisible by another number other than itself and 1,
                 # then it is not a prime number
 
-                # if div by 2, then false, but if div by 6, then false.
-                # why check 6 ?!?  Only check against prime numbers.
-                
                 return False
             index = index + 1
         return True
