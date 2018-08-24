@@ -5,6 +5,7 @@
 # version 1.1       01/06/2018   Vincent     Adding log to file system
 #                                            Separate py into modules/package
 # version 1.2       01/06/2018   Vincent     Using "generators" to store MP.
+# version 1.2       24/08/2018   Vincent     Migrated to GitHub
 
 # mersenne prime numbers are where (2**prime - 1) is also a prime number
 # https://en.wikipedia.org/wiki/Mersenne_prime
