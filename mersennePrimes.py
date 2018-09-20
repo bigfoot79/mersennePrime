@@ -22,7 +22,7 @@ def mersenne_detector():
     foo.log_file.log_file_create()      # Create a new log file
     
     count = long(2)                     # allow higher whole numbers to be applied
-    while count <= 4423:                  # (2^^4423 - 1)
+    while count <= 89:                  # (2^^4423 - 1)
 
         prime = long(count)
 
@@ -41,6 +41,8 @@ def mersenne_detector():
                 foo.log_file.log_file_append(str_message)
 
         count = long(count + 1)
+    
+    print("Program finished")
     
 def main():
 
