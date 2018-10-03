@@ -7,6 +7,7 @@
 # version 1.2       01/06/2018   Vincent     Using "generators" to store MP.
 # version 1.2       24/08/2018   Vincent     Migrated to GitHub
 # version 1.3       02/10/2018   Vincent     Updated new branch, ready to merge into master branch.
+# version 1.4       04/10/2018   Vincent     Working in new branch, added this line only.
 
 # mersenne prime numbers are where (2**prime - 1) is also a prime number
 # https://en.wikipedia.org/wiki/Mersenne_prime
